@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Image` component with a local URI that's not properly handled.  The URI might be incorrect, not exist, or the component might not be configured to handle local URIs correctly.  The error message usually involves something related to a failed image load, possibly with details about the URI itself.
